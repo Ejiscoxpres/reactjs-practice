@@ -1,5 +1,5 @@
 function Message(){
-    const name = 'Divine';
+    const name = '';
     if (name)
     return(
         <h1>Hello {name}</h1>
